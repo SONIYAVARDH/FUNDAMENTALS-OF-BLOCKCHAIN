@@ -1,0 +1,14 @@
+Q.1. HOW TO CREATE AN NFT ON POLYGON BLOCKCHAIN?
+ANS. 1.FIRSTLY GO TO OPENSEA'S WEBSITE.
+     2.click the create button and connect to the meta mask wallet and choose the network ploygon mainnet.
+     3.and then profile which are already created.
+     4. now click the my collection and create a collection and select use the opensea contract and confirm.and fill up the collection detail like appropriate name,mention in url,choose the polygon network,added token,logo images,banner images etc.after that save collection.
+     5.after that click on create a item in my wallet.and upload the picture what i want to create and some detail like name, description is added, and choose polygon network, and select supply 10000 and now click on create.it's created succusfully. 
+     6.its NFT added to my collection.
+
+
+Q.2. HOW TO LIST AND SELL AN NFT ON PLOYGON BLOCKCHAIN?
+ANS.  NOW I HAVE CREATED MY NFT,IT'S TIME TO SELL IT.
+      SELECT THE NFT WHICH IS WANTS TO LIST FOR SALE.
+      SELECT THE ITEM FOR LISTING.SET A PRICE 0.01 MATIC.AND I CHOOSE THE TIME DURATION FOR 3 MONTH.AND CLICK ON THE COMPLETE LISTING.
+      FOR APPROVAL LISTING I HAVE TO SIGN IT ON METAMASK WALLET.NOW THIS ITEM HAS BEEN LISTED FOR SALE.
